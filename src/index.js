@@ -1,3 +1,4 @@
+import './wdyr'
 import './styles/app.css'
 
 import { FirebaseContext } from 'context'
